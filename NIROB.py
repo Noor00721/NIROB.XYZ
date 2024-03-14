@@ -1,6 +1,7 @@
-Import time,os,json,sys,re,string, random
-port time,os,json,sys,re,string, random 
+import time,os,json,sys,re,string, random 
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
+
+
 try:
     import rich
 except:
@@ -83,10 +84,10 @@ def space():
 number=int("+8801925385443")
 
 devoloper_info={
-    "Developer" :  'Tawhid Mals',
-    "Number" :  0192538544
+    "Developer" :  'TAWHID-MALS',
+    "Number" :  01925385443
     "Status" :  '24-ONLINE',
-    "GitHub Url":  'https://github.com/Noor00721',
+    "GitHub Url":  'https://github.com/nirob-vaigithub.com/nirob-vai/1',
     "Facebook" :  'https://www.facebook.com/profile.php?id=61556289748453,
     }
 
